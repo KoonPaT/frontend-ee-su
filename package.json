@@ -22,7 +22,7 @@
     "nuxt-buefy": "^0.4.24",
     "nuxt-socket-io": "^2.0.3",
     "qr-scanner": "^1.4.2",
-    "thai-address-database": "^0.0.29",
+    "thai-address-database": "^0.0.30",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
