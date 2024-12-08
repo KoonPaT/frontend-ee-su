@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Silpakorn;
+    font-style: normal;
+    font-display: swap;
+    src: url("/fonts/SILPAKORN70NEW/SILPAKORN70NEW.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: Silpakorn70yr;
+    font-style: normal;
+    font-display: swap;
+    src: url("/fonts/SILPAKORN70yr/SILPAKORN70yr.woff2") format('woff2');
+}
