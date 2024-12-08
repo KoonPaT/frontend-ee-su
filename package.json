@@ -28,7 +28,7 @@
     "vue-template-compiler": "^2.7.10"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.20",
     "nuxt-purgecss": "^1.0.0",
     "postcss": "^8.4.31",
     "sass": "^1.66.1",
